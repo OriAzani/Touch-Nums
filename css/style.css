@@ -1,0 +1,13 @@
+td {
+    border: 1px solid black;
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+};
+
+table{
+      background-color: burlywood;
+      width: 400px;
+      height: 400px;
+      border: 1px solid black;
+};
